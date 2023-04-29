@@ -1,8 +1,6 @@
-import 'dart:convert';
-
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
-import 'package:test_task_unsplash/consts.dart';
+import 'package:test_task_unsplash/constants.dart';
 
 import '../../../../networking/client/photo_client.dart';
 import '/../networking/models/photo_models.dart';

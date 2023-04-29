@@ -1,9 +1,8 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:test_task_unsplash/ui/pages/photo/photo_page.dart';
 
-import '../../../consts.dart';
+import '../../../constants.dart';
 import '../../../networking/client/photo_client.dart';
 import '../../widgets/photo_widget.dart';
 import '/networking/models/photo_models.dart';
